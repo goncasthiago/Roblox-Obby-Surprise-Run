@@ -2,6 +2,8 @@
 
 Experiência criada a partir do curso - Criando um jogo de obstáculos no Roblox da DIO
 
+[Jogar](https://www.roblox.com/games/12543692571/Obby-Surprise-Run)
+
 ![Nova](https://iili.io/HGcP7Hl.png)
 
 O caminho possui alguns desafios diferentes, com uma surpresa no final
